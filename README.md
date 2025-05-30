@@ -42,10 +42,3 @@ To install ngrok, go to https://ngrok.com/download and install ngrok version tha
 Extract the zip file and place ngrok.exe in a folder.
 Open windows command prompt, go to that folder and run this command: ngrok http 80000
 NOTE: ngrok can timeout. you need to restart the session if you see session expired message.
-
-Project Snapshots
-Screenshot 2023-12-07 132244
-
-Screenshot 2023-12-07 132305
-
-Screenshot 2023-12-07 132311
